@@ -1,0 +1,15 @@
+.spinner-style {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    z-index: 100;
+    transform: translate(-50%, -50%);
+}
+.spinner-overlay {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background-color:rgba(128, 128, 128, 0.26);
+    top: 0;
+    left: 0;
+}
